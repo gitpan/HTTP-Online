@@ -17,6 +17,7 @@ MYMETA.json
 README
 t/01_compile.t
 t/02_main.t
+t/03_skip_all.t
 xt/meta.t
 xt/pmv.t
 xt/pod.t
